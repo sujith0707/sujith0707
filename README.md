@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sujith0707
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Sujith Reddy M
+- 👀 I’m interested in Software Engineering & Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Bulding Deep Learning Models
 - 📫 How to reach me 

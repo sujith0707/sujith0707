@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sujith Reddy M
-- 👀 I’m interested in Software Engineering & Data Science
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Building Deep Learning Models
+- 👀 I’m interested in studying the working of Human Brain
 - 📫 How to reach me reddymsujith07@gmail.com
 
 <!---
